@@ -1,0 +1,6 @@
+(Math/round (/ 1000000000 31557600))
+(/ 1000000000 31557600)
+(Math/round (/ 1000000000 31557600))
+(ns example.core
+  (:require [clojure.math.numeric-tower :as math]))
+exit
